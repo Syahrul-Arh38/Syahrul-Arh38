@@ -1,18 +1,72 @@
 ## Hi there 👋
 
-Information Technology graduate specializing in Data Analysis and AI, with a focus on Deep Learning. Highly adept at multitasking, combining technical IT operations and web development with creative design to deliver systematic digitally solutions.
+I'm **Syahrul Ihza Arhamna** — an Information Technology graduate with a strong interest in **Data Analysis**, **Artificial Intelligence**, and **Deep Learning**. I enjoy working at the intersection of **technology, data, and creativity** to build structured and impactful digital solutions.
 
-<!--
-**Syahrul-Arh38/Syahrul-Arh38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🎓 Bachelor in Information Technology
+* 📊 Focused on Data Analysis & AI (Deep Learning)
+* 💻 Experienced in IT Operations, Web Development, and System Design
+* 🎨 Able to combine technical solutions with creative design thinking
+* 🧠 Curious, adaptive, and comfortable with multitasking environments
+
+---
+
+### 🔭 Currently Working On
+
+* Deep Learning–based image classification projects
+* Research and development in computer vision (CNN)
+* Web-based systems integrated with AI models
+
+---
+
+### 🌱 Currently Learning
+
+* Advanced Deep Learning architectures (CNN, Transfer Learning)
+* Data visualization and analytical storytelling
+* Model deployment and AI integration for web applications
+
+---
+
+### 👯 Open to Collaborate On
+
+* Data Analysis & Machine Learning projects
+* AI-based web applications
+* Research-related projects (especially Computer Vision & NLP)
+
+---
+
+### 💬 Ask Me About
+
+* Deep Learning & CNN
+* Data preprocessing and analysis
+* AI model integration with web systems
+* Academic research & technical documentation
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages & Tools:**
+
+* Python, JavaScript, PHP
+* TensorFlow / Keras
+* Flask
+* MySQL
+* HTML, CSS, Bootstrap
+* Git & GitHub
+
+---
+
+### 📫 How to Reach Me
+
+* 📧 Email: *(add your email here)*
+* 💼 LinkedIn: *(add your LinkedIn link)*
+* 🌐 Portfolio / Website: *(optional)*
+
+---
+
+
+⭐ Feel free to explore my repositories and connect with me!
