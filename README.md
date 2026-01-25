@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+Information Technology graduate specializing in Data Analysis and AI, with a focus on Deep Learning. Highly adept at multitasking, combining technical IT operations and web development with creative design to deliver systematic digitally solutions.
+
 <!--
 **Syahrul-Arh38/Syahrul-Arh38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
