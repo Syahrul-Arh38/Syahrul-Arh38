@@ -62,9 +62,8 @@ I'm **Syahrul Ihza Arhamna** — an Information Technology graduate with a stron
 
 ### 📫 How to Reach Me
 
-* 📧 Email: *(add your email here)*
-* 💼 LinkedIn: *(add your LinkedIn link)*
-* 🌐 Portfolio / Website: *(optional)*
+* 📧 Email: *syahrulihzaarhamna038@gmailcom*
+* 💼 LinkedIn: *https://www.linkedin.com/in/syahrul-ihza-arhamna/*
 
 ---
 
