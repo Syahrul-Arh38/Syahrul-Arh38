@@ -1,23 +1,20 @@
 ## Hi there 👋
 
-<img src="[https://www.harpersbazaar.com/uk/culture/entertainment/a60772824/ryan-gosling-heartthrob-appeal/](https://hips.hearstapps.com/hmg-prod/images/gettyimages-2150933231-6641f39e54c8d.jpg" alt="Gweh" width="500">
-
-
 I'm **Syahrul Ihza Arhamna** — an Information Technology graduate with a strong interest in **Data Analysis**, **Artificial Intelligence**, and **Deep Learning**. I enjoy working at the intersection of **technology, data, and creativity** to build structured and impactful digital solutions.
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-* 🎓 Bachelor in Information Technology
-* 📊 Focused on Data Analysis & AI (Deep Learning)
-* 💻 Experienced in IT Operations, Web Development, and System Design
-* 🎨 Able to combine technical solutions with creative design thinking
-* 🧠 Curious, adaptive, and comfortable with multitasking environments
+*  Bachelor in Information Technology **UIN Walisongo Semarang**
+*  Focused on Data Analysis & AI (Deep Learning)
+*  Experienced in IT Operations, Web Development, and System Design
+*  Able to combine technical solutions with creative design thinking
+*  Curious, adaptive, and comfortable with multitasking environments
 
 ---
 
-### 🔭 Currently Working On
+###  Currently Working On
 
 * Deep Learning–based image classification projects
 * Research and development in computer vision (CNN)
@@ -25,7 +22,7 @@ I'm **Syahrul Ihza Arhamna** — an Information Technology graduate with a stron
 
 ---
 
-### 🌱 Currently Learning
+###  Currently Learning
 
 * Advanced Deep Learning architectures (CNN, Transfer Learning)
 * Data visualization and analytical storytelling
@@ -33,7 +30,7 @@ I'm **Syahrul Ihza Arhamna** — an Information Technology graduate with a stron
 
 ---
 
-### 👯 Open to Collaborate On
+###  Open to Collaborate On
 
 * Data Analysis & Machine Learning projects
 * AI-based web applications
@@ -41,7 +38,7 @@ I'm **Syahrul Ihza Arhamna** — an Information Technology graduate with a stron
 
 ---
 
-### 💬 Ask Me About
+###  Ask Me About
 
 * Deep Learning & CNN
 * Data preprocessing and analysis
@@ -50,7 +47,7 @@ I'm **Syahrul Ihza Arhamna** — an Information Technology graduate with a stron
 
 ---
 
-### 🛠️ Tech Stack
+###  Tech Stack
 
 **Languages & Tools:**
 
@@ -63,12 +60,12 @@ I'm **Syahrul Ihza Arhamna** — an Information Technology graduate with a stron
 
 ---
 
-### 📫 How to Reach Me
+###  How to Reach Me
 
-* 📧 Email: *syahrulihzaarhamna038@gmailcom*
-* 💼 LinkedIn: *https://www.linkedin.com/in/syahrul-ihza-arhamna/*
+*  Email: *syahrulihzaarhamna038@gmailcom*
+*  LinkedIn: *https://www.linkedin.com/in/syahrul-ihza-arhamna/*
 
 ---
 
 
-⭐ Feel free to explore my repositories and connect with me!
+ Feel free to explore my repositories and connect with me!
