@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-<img src="https://www.harpersbazaar.com/uk/culture/entertainment/a60772824/ryan-gosling-heartthrob-appeal/" alt="Alt Text" width="500">
+<img src="https://hips.hearstapps.com/hmg-prod/images/gettyimages-2150933231-6641f39e54c8d.jpg?crop=0.6666666666666666xw:1xh;center,top&resize=1120:*" alt="Alt Text" width="500">
 
 
 I'm **Syahrul Ihza Arhamna** — an Information Technology graduate with a strong interest in **Data Analysis**, **Artificial Intelligence**, and **Deep Learning**. I enjoy working at the intersection of **technology, data, and creativity** to build structured and impactful digital solutions.
