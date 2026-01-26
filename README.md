@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Image](https://github.com/user-attachments/assets/bf6f7d92-372e-4cbf-8c5b-8fc3ca5c9fbb)
+![Image](https://github.com/user-attachments/assets/71a13f1d-c64a-47a2-817f-8ce8eb124603)
 
 I'm **Syahrul Ihza Arhamna** — an Information Technology graduate with a strong interest in **Data Analysis**, **Artificial Intelligence**, and **Deep Learning**. I enjoy working at the intersection of **technology, data, and creativity** to build structured and impactful digital solutions.
 
