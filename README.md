@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-![Image](https://github.com/user-attachments/assets/71a13f1d-c64a-47a2-817f-8ce8eb124603)
 
 I'm **Syahrul Ihza Arhamna** — an Information Technology graduate with a strong interest in **Data Analysis**, **Artificial Intelligence**, and **Deep Learning**. I enjoy working at the intersection of **technology, data, and creativity** to build structured and impactful digital solutions.
 
@@ -62,7 +61,7 @@ I'm **Syahrul Ihza Arhamna** — an Information Technology graduate with a stron
 
 ---
 
-###  How to Reach Me
+###  Contact
 
 *  Email: *syahrulihzaarhamna038@gmailcom*
 *  LinkedIn: *https://www.linkedin.com/in/syahrul-ihza-arhamna/*
